@@ -73,7 +73,7 @@ class _HomePageState extends State<HomePage> {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
           content: Text(
-            'Gagal mengambil data: $e',
+            'Gagal mengambill data: $e',
           ),
         ),
       );
